@@ -1,4 +1,4 @@
-## Using Liquid Tags inside GFM markdown
+# Using Liquid Tags inside GFM markdown
 
 > *On GitHub it’s possible to use Liquid tags (aka shopify’s quick tags) inside markdown documents.*
 >
