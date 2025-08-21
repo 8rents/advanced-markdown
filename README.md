@@ -7,3 +7,6 @@
 ## Table of Contents
 
 - [Creating Flowcharts using Mermaid Syntax](flowcharts.md)
+- [Using Liquid Tags inside markdown](liquid-inside-markdown.md)
+- [Using YAML Frontmatter](yaml-frontmatter.md)
+
